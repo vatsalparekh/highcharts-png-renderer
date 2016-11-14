@@ -1,5 +1,5 @@
 {
-    "port": 11942,
+    "port": 4932,
     "scripts": {
         "jquery"         : "libs/jquery.min.js",
         "highcharts"     : "libs/highcharts.js",

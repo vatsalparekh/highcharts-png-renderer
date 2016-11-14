@@ -45,8 +45,8 @@
             options.chart.renderTo = this.container.get(0);
 
             // Width/height
-            options.chart.width  = (options.exporting && options.exporting.sourceWidth)  || options.chart.width  || 600;
-            options.chart.height = (options.exporting && options.exporting.sourceHeight) || options.chart.height || 400;
+            options.chart.width  = (options.exporting && options.exporting.sourceWidth)  || options.chart.width  || 1000;
+            options.chart.height = (options.exporting && options.exporting.sourceHeight) || options.chart.height || 325;
 
             this.options = options;
         },
